@@ -1,0 +1,22 @@
+[
+  {
+    "selectValue": "Acetic acid",
+    "inputValue": "1"
+  },
+  {
+    "selectValue": "Alcohol",
+    "inputValue": "3"
+  },
+  {
+    "selectValue": "Claymore",
+    "inputValue": "7"
+  },
+  {
+    "selectValue": "Nuclear Fuel Rods",
+    "inputValue": "8"
+  },
+  {
+    "selectValue": "Weapon Case",
+    "inputValue": "12"
+  }
+]
