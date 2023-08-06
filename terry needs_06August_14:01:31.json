@@ -1,0 +1,50 @@
+[
+  {
+    "selectValue": "Lighter",
+    "inputValue": "20"
+  },
+  {
+    "selectValue": "Blow Torch",
+    "inputValue": "7"
+  },
+  {
+    "selectValue": "Cigar Box",
+    "inputValue": "35"
+  },
+  {
+    "selectValue": "Encrypted Hard Drive",
+    "inputValue": "7"
+  },
+  {
+    "selectValue": "GPU",
+    "inputValue": "2"
+  },
+  {
+    "selectValue": "Japanese/Ashika Liquor",
+    "inputValue": "12"
+  },
+  {
+    "selectValue": "RGL-80",
+    "inputValue": "1"
+  },
+  {
+    "selectValue": "Self-Revive Kit - *** DEAD DROP ***",
+    "inputValue": "40"
+  },
+  {
+    "selectValue": "Skeleton Key - *** DEAD DROP ***",
+    "inputValue": "1"
+  },
+  {
+    "selectValue": "Stronghold keycard - *** DEAD DROP ***",
+    "inputValue": "8"
+  },
+  {
+    "selectValue": "UAV",
+    "inputValue": "4"
+  },
+  {
+    "selectValue": "Vase",
+    "inputValue": "1"
+  }
+]
