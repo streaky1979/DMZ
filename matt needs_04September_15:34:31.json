@@ -1,0 +1,74 @@
+[
+  {
+    "selectValue": "Acetic acid",
+    "inputValue": "1"
+  },
+  {
+    "selectValue": "Aged Wine",
+    "inputValue": "8"
+  },
+  {
+    "selectValue": "Armor Plate Box",
+    "inputValue": "7"
+  },
+  {
+    "selectValue": "Battery",
+    "inputValue": "6"
+  },
+  {
+    "selectValue": "Durable gas mask",
+    "inputValue": "10"
+  },
+  {
+    "selectValue": "Electric Drill",
+    "inputValue": "4"
+  },
+  {
+    "selectValue": "Electrical Components",
+    "inputValue": "16"
+  },
+  {
+    "selectValue": "Electrical Tape",
+    "inputValue": "3"
+  },
+  {
+    "selectValue": "Gas Mask",
+    "inputValue": "30"
+  },
+  {
+    "selectValue": "Hard Drive",
+    "inputValue": "3"
+  },
+  {
+    "selectValue": "Hydrochloride",
+    "inputValue": "3"
+  },
+  {
+    "selectValue": "Hydrogen peroxide",
+    "inputValue": "4"
+  },
+  {
+    "selectValue": "Liquid Nitrogen",
+    "inputValue": "10"
+  },
+  {
+    "selectValue": "Purified water",
+    "inputValue": "15"
+  },
+  {
+    "selectValue": "Radiation Blocker",
+    "inputValue": "15"
+  },
+  {
+    "selectValue": "Screwdriver",
+    "inputValue": "5"
+  },
+  {
+    "selectValue": "Vintage Wine",
+    "inputValue": "8"
+  },
+  {
+    "selectValue": "Wrench",
+    "inputValue": "3"
+  }
+]
