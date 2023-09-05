@@ -1,0 +1,82 @@
+[
+  {
+    "selectValue": "Acetic acid",
+    "inputValue": "1"
+  },
+  {
+    "selectValue": "Acetone",
+    "inputValue": "3"
+  },
+  {
+    "selectValue": "Aged Wine",
+    "inputValue": "8"
+  },
+  {
+    "selectValue": "Ashika Old Film Canisters",
+    "inputValue": "16"
+  },
+  {
+    "selectValue": "Cigar Box",
+    "inputValue": "32"
+  },
+  {
+    "selectValue": "Classified Documents",
+    "inputValue": "1"
+  },
+  {
+    "selectValue": "Documents",
+    "inputValue": "14"
+  },
+  {
+    "selectValue": "Electric Drill",
+    "inputValue": "3"
+  },
+  {
+    "selectValue": "Electrical Tape",
+    "inputValue": "3"
+  },
+  {
+    "selectValue": "Heavy Chopper Fuel",
+    "inputValue": "10"
+  },
+  {
+    "selectValue": "Hydrochloride",
+    "inputValue": "3"
+  },
+  {
+    "selectValue": "Japanese/Ashika Liquor",
+    "inputValue": "10"
+  },
+  {
+    "selectValue": "Large Medical bag",
+    "inputValue": "6"
+  },
+  {
+    "selectValue": "Liquid Nitrogen",
+    "inputValue": "10"
+  },
+  {
+    "selectValue": "NVG",
+    "inputValue": "5"
+  },
+  {
+    "selectValue": "Origami Horse",
+    "inputValue": "5"
+  },
+  {
+    "selectValue": "Purified water",
+    "inputValue": "13"
+  },
+  {
+    "selectValue": "Scavenger Calling Cards",
+    "inputValue": "12"
+  },
+  {
+    "selectValue": "Screwdriver",
+    "inputValue": "5"
+  },
+  {
+    "selectValue": "Wrench",
+    "inputValue": "3"
+  }
+]
